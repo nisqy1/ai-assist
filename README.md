@@ -59,7 +59,7 @@ Exemplos de ações:
 
 ▶️ Instalação
 1️⃣ Clone o repositório
-git clone https://github.com/Paulo-Henrique99/Assistente-Virtual-PROJETO-DIO.git
+git clone https://github.com/nisqy1/ai-assist.git
 2️⃣ Instale as dependências
 pip install SpeechRecognition pyttsx3 pyaudio
 
